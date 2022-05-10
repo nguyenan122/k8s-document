@@ -1,0 +1,14 @@
+1. Quản lý cần xác định và mô tả rõ ràng từng nhiệm vụ, break down. 
+2. Yêu cầu nhân viên liệt kê những yêu cầu đó để đảm bảo anh ấy - cô ấy hoàn toàn hiểu rõ.
+3. Cần chính xác thời hạn hoàn thành công việc
+4. Khi giao việc, cần xác định rõ phạm vi thẩm quyền người được thực hiện (Đề nghị giải pháp, thông báo trước khi hành động, hành động)
+5. Khi thực hiện 1 dự án lớn, cần giám sát thường xuyên công việc được giao ban đầu, để cho nhiệm vụ đi đúng hướng, sau đó có thể giảm dần đi. (đối chiếu, đánh gia)
+6. Khi thực hiện xong, hay làm bảng tổng kết công việc: Việc đã hoàn thành tốt, việc cần cải thiện do chưa tốt, những điều học được từ công việc.
+
+--------------------
+Tóm lại các ý trên, cho cả nhân viên và sếp trên:
+1) Kết quả mong đợi của dự án này là gì
+2) Thời hạn hoàn thành công việc
+3) Phạm vi thẩm quyền của tôi
+4) Những điều cần kiểm tra, đối chiếu
+
